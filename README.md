@@ -2,23 +2,14 @@
 
 This project demonstrates how to set up a Vision-and-Language Transformer (ViLT) model fine-tuned on VQAv2 using FastAPI. The model can answer questions about the content of an image.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dockerization](#dockerization)
-- [Endpoints](#endpoints)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/ridhakp/vilt-vqa-fastapi-docker.git
+    cd vilt-vqa-fastapi-docker
     ```
 
 2. **Create and activate a virtual environment:**
